@@ -1,9 +1,9 @@
-CRUD BOOKING APPLICATION APPLICATION
+CRUD BOOKING APPLICATION
 ----------------------------------------------------------
-Author: Andrew Bowen
+Andrew Bowen
 
 
-APPLICATION SETUP
+SETUP
 ----------------------------------------------------------
 - Visual Studio MUST be run in Administrator mode to work (Shift + Right Click on TaskBar icon -> Run as administrator)
 - Set MyBusiness.BookAd.Presentation.Wpf as startup project
